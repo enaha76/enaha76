@@ -1,4 +1,4 @@
-# Cheikh Ahmedou Enaha
+# Cheikh Ahmedou Enaha 
 
 **AI Engineer @ MyTower** · Co-founder **Sahel Sky** · 3× Gold Medalist, Nuit de l'Info (Team Let's Code)
 
