@@ -58,7 +58,7 @@ I build production ML and data systems — NLP, document understanding, RAG, and
 
 ## 📫 Contact
 
-[LinkedIn](https://linkedin.com/in/cheikhahmedou) · ahmedou.enaha@gmail.com · Nouakchott, Mauritania
+[LinkedIn](https://www.linkedin.com/in/cheikh-ahmedou-enaha-85470723b/) · ahmedou.enaha@gmail.com · Nouakchott, Mauritania
 
 
 <!-- profile readme -->
